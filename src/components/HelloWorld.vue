@@ -57,7 +57,7 @@
                 sendData: {
                     email: '',
                     subject: 'test title',
-                    body: 'test body ' + Math.random().toString(36).substring(2, 6)
+                    body: 'test body '
                 }
             }
         },
